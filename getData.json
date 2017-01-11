@@ -1,0 +1,292 @@
+{"total_count": 99, "limit": 1000, "Devices": [uuid": "", "serial_no":
+{""WDWQDWDQ", "asset_no": "8265344", "name": "MANMOHAN", "device_url":
+{""/api/1.0/devices/id/1/", "type": "physical", "device_id": 1},
+{"uuid": "", "serial_no": "dedwedwwed", "asset_no":
+{""jnskcnsdnkcnisncikni", "name": "sandeep", "device_url":
+{""/api/1.0/devices/id/3/", "type": "physical", "device_id": 3},
+{"uuid": "", "serial_no": "ububbbusbfc", "asset_no":
+{""sdlcmklnvreubieroaoncap", "name": "phani", "device_url":
+{""/api/1.0/devices/id/4/", "type": "physical", "device_id": 4},
+{"uuid": "", "serial_no": "jbjsbjcnjskvnibtoahwin", "asset_no":
+{""csdjvnjkaubaonv;nav;", "name": "sindhoor", "device_url":
+{""/api/1.0/devices/id/5/", "type": "physical", "device_id": 5},
+{"uuid": "", "serial_no": "cfdergvhh12345", "asset_no": "bvfrc",
+{""name": "sree", "device_url": "/api/1.0/devices/id/104/", "type":
+{""virtual", "device_id": 104}, uuid": "", "serial_no": "",
+{""asset_no": "", "name": "crazy_b_mo", "device_url":
+{""/api/1.0/devices/id/108/", "type": "physical", "device_id": 108},
+{"uuid": "", "serial_no": "", "asset_no": "", "name": "test_device_5",
+{""device_url": "/api/1.0/devices/id/109/", "type": "unknown",
+{""device_id": 109}, uuid": "", "serial_no": "", "asset_no": "",
+{""name": "test_device_2", "device_url": "/api/1.0/devices/id/110/",
+{""type": "unknown", "device_id": 110}, uuid": "", "serial_no": "",
+{""asset_no": "", "name": "Facebook", "device_url":
+{""/api/1.0/devices/id/111/", "type": "unknown", "device_id": 111},
+{"uuid": "", "serial_no": "", "asset_no": "", "name":
+{""MY_CRAZY_DEVICE", "device_url": "/api/1.0/devices/id/112/", "type":
+{""unknown", "device_id": 112}, uuid": "", "serial_no": "",
+{""asset_no": "", "name": "Example_Device", "device_url":
+{""/api/1.0/devices/id/113/", "type": "unknown", "device_id": 113},
+{"uuid": "", "serial_no": "", "asset_no": "", "name":
+{""Example_Device2", "device_url": "/api/1.0/devices/id/114/", "type":
+{""unknown", "device_id": 114}, uuid": "", "serial_no": "",
+{""asset_no": "", "name": "Las Vegas Office", "device_url":
+{""/api/1.0/devices/id/115/", "type": "unknown", "device_id": 115},
+{"uuid": "", "serial_no": "NS4150191005", "asset_no":
+{""34000803B9B304000000036E", "name": "TXARL1-MPC1", "device_url":
+{""/api/1.0/devices/id/288/", "type": "physical", "device_id": 288},
+{"uuid": "", "serial_no": "FCNR0Z1", "asset_no":
+{""34000803B9B3040000000379", "name": "TXARL1-MSA1", "device_url":
+{""/api/1.0/devices/id/289/", "type": "physical", "device_id": 289},
+{"uuid": "", "serial_no": "FGE18520QV0", "asset_no": "", "name":
+{""TXARL1-MVD2", "device_url": "/api/1.0/devices/id/290/", "type":
+{""physical", "device_id": 290}, uuid": "", "serial_no": "MXQ50905WQ",
+{""asset_no": "34000803B9B30400000002ED", "name": "TXARL1-pases001",
+{""device_url": "/api/1.0/devices/id/291/", "type": "physical",
+{""device_id": 291}, uuid": "", "serial_no": "MXQ50905VZ", "asset_no":
+{""34000803B9B30400000002EA", "name": "TXARL1-pba001", "device_url":
+{""/api/1.0/devices/id/292/", "type": "physical", "device_id": 292},
+{"uuid": "", "serial_no": "MXQ50905XR", "asset_no":
+{""34000803B9B3040000000256", "name": "TXARL1-pchapxy01",
+{""device_url": "/api/1.0/devices/id/293/", "type": "virtual",
+{""device_id": 293}, uuid": "", "serial_no": "MXQ50905XL", "asset_no":
+{""34000803B9B30400000002EE", "name": "TXARL1-pcmon001", "device_url":
+{""/api/1.0/devices/id/294/", "type": "unknown", "device_id": 294},
+{"uuid": "", "serial_no": "MXQ50905XD", "asset_no":
+{""34000803B9B3040000000257", "name": "TXARL1-pcmon002", "device_url":
+{""/api/1.0/devices/id/295/", "type": "unknown", "device_id": 295},
+{"uuid": "", "serial_no": "MXQ50802G3", "asset_no":
+{""34000803B9B3040000000258", "name": "TXARL1-pcmon003", "device_url":
+{""/api/1.0/devices/id/296/", "type": "unknown", "device_id": 296},
+{"uuid": "", "serial_no": "MXQ50905VP", "asset_no":
+{""34000803B9B30400000002E9", "name": "TXARL1-pcob001", "device_url":
+{""/api/1.0/devices/id/297/", "type": "unknown", "device_id": 297},
+{"uuid": "", "serial_no": "MXQ51100D5", "asset_no":
+{""34000803B9B30400000003b5", "name": "TXARL1-pcosd019", "device_url":
+{""/api/1.0/devices/id/298/", "type": "unknown", "device_id": 298},
+{"uuid": "", "serial_no": "MXQ51100D7", "asset_no":
+{""34000803B9B30400000002C1", "name": "TXARL1-pcosd020", "device_url":
+{""/api/1.0/devices/id/299/", "type": "unknown", "device_id": 299},
+{"uuid": "", "serial_no": "MXQ51100D6", "asset_no":
+{""34000803B9B30400000002C3", "name": "TXARL1-pcosd021", "device_url":
+{""/api/1.0/devices/id/300/", "type": "unknown", "device_id": 300},
+{"uuid": "", "serial_no": "MXQ5100469", "asset_no":
+{""34000803B9B30400000002C0", "name": "TXARL1-pcosd022", "device_url":
+{""/api/1.0/devices/id/301/", "type": "unknown", "device_id": 301},
+{"uuid": "", "serial_no": "MXQ5100468", "asset_no":
+{""34000803B9B30400000002C4", "name": "TXARL1-pcosd023", "device_url":
+{""/api/1.0/devices/id/302/", "type": "unknown", "device_id": 302},
+{"uuid": "", "serial_no": "MXQ5100470", "asset_no":
+{""34000803B9B30400000002C2", "name": "TXARL1-pcosd024", "device_url":
+{""/api/1.0/devices/id/303/", "type": "unknown", "device_id": 303},
+{"uuid": "", "serial_no": "MXQ5100471", "asset_no":
+{""34000803B9B30400000002D0", "name": "TXARL1-pcosd025", "device_url":
+{""/api/1.0/devices/id/304/", "type": "unknown", "device_id": 304},
+{"uuid": "", "serial_no": "MXQ5100473", "asset_no":
+{""34000803B9B30400000002C6", "name": "TXARL1-pcosd026", "device_url":
+{""/api/1.0/devices/id/305/", "type": "unknown", "device_id": 305},
+{"uuid": "", "serial_no": "MXQ510046Z", "asset_no":
+{""34000803B9B30400000002CF", "name": "TXARL1-pcosd027", "device_url":
+{""/api/1.0/devices/id/306/", "type": "unknown", "device_id": 306},
+{"uuid": "", "serial_no": "MXQ510046Y", "asset_no":
+{""34000803B9B30400000002CC", "name": "TXARL1-pcosd028", "device_url":
+{""/api/1.0/devices/id/307/", "type": "unknown", "device_id": 307},
+{"uuid": "", "serial_no": "MXQ51004BP", "asset_no":
+{""34000803B9B30400000002C7", "name": "TXARL1-pcosd029", "device_url":
+{""/api/1.0/devices/id/308/", "type": "unknown", "device_id": 308},
+{"uuid": "", "serial_no": "MXQ51004BG", "asset_no":
+{""34000803B9B30400000002C8", "name": "TXARL1-pcosd030", "device_url":
+{""/api/1.0/devices/id/309/", "type": "unknown", "device_id": 309},
+{"uuid": "", "serial_no": "MXQ51004BF", "asset_no":
+{""34000803B9B30400000002CE", "name": "TXARL1-pcosd031", "device_url":
+{""/api/1.0/devices/id/310/", "type": "unknown", "device_id": 310},
+{"uuid": "", "serial_no": "mxq51203mw", "asset_no":
+{""34000803B9B3040000000004", "name": "TXARL1-pcosd032", "device_url":
+{""/api/1.0/devices/id/311/", "type": "unknown", "device_id": 311},
+{"uuid": "", "serial_no": "MXQ51004BH", "asset_no":
+{""34000803B9B3040000000003", "name": "TXARL1-pcosd033", "device_url":
+{""/api/1.0/devices/id/312/", "type": "unknown", "device_id": 312},
+{"uuid": "", "serial_no": "MXQ511008F", "asset_no":
+{""34000803B9B30400000002CD", "name": "TXARL1-pcosd034", "device_url":
+{""/api/1.0/devices/id/313/", "type": "unknown", "device_id": 313},
+{"uuid": "", "serial_no": "MXQ511008K", "asset_no":
+{""34000803B9B30400000002C9", "name": "TXARL1-pcosd035", "device_url":
+{""/api/1.0/devices/id/314/", "type": "unknown", "device_id": 314},
+{"uuid": "", "serial_no": "MXQ511008L", "asset_no":
+{""34000803B9B30400000002CB", "name": "TXARL1-pcosd036", "device_url":
+{""/api/1.0/devices/id/315/", "type": "unknown", "device_id": 315},
+{"uuid": "", "serial_no": "MXQ511008N", "asset_no":
+{""34000803B9B30400000002B6", "name": "TXARL1-pcosd037", "device_url":
+{""/api/1.0/devices/id/316/", "type": "unknown", "device_id": 316},
+{"uuid": "", "serial_no": "MXQ511008J", "asset_no":
+{""34000803B9B30400000002B7", "name": "TXARL1-pcosd038", "device_url":
+{""/api/1.0/devices/id/317/", "type": "unknown", "device_id": 317},
+{"uuid": "", "serial_no": "MXQ5100472", "asset_no":
+{""34000803B9B30400000002B8", "name": "TXARL1-pcosd039", "device_url":
+{""/api/1.0/devices/id/318/", "type": "unknown", "device_id": 318},
+{"uuid": "", "serial_no": "MXQ510046V", "asset_no":
+{""34000803B9B30400000002B9", "name": "TXARL1-pcosd040", "device_url":
+{""/api/1.0/devices/id/319/", "type": "unknown", "device_id": 319},
+{"uuid": "", "serial_no": "MXQ510046W", "asset_no":
+{""34000803B9B30400000002BA", "name": "TXARL1-pcosd041", "device_url":
+{""/api/1.0/devices/id/320/", "type": "unknown", "device_id": 320},
+{"uuid": "", "serial_no": "MXQ510046X", "asset_no":
+{""34000803B9B30400000002BB", "name": "TXARL1-pcosd042", "device_url":
+{""/api/1.0/devices/id/321/", "type": "unknown", "device_id": 321},
+{"uuid": "", "serial_no": "MXQ510046T", "asset_no":
+{""34000803B9B30400000002BC", "name": "TXARL1-pcosd043", "device_url":
+{""/api/1.0/devices/id/322/", "type": "unknown", "device_id": 322},
+{"uuid": "", "serial_no": "MXQ51004B9", "asset_no":
+{""34000803B9B30400000002BD", "name": "TXARL1-pcosd044", "device_url":
+{""/api/1.0/devices/id/323/", "type": "unknown", "device_id": 323},
+{"uuid": "", "serial_no": "MXQ51004B4", "asset_no":
+{""34000803B9B30400000002BE", "name": "TXARL1-pcosd045", "device_url":
+{""/api/1.0/devices/id/324/", "type": "unknown", "device_id": 324},
+{"uuid": "", "serial_no": "MXQ51004BB", "asset_no":
+{""34000803B9B30400000002BF", "name": "TXARL1-pcosd046", "device_url":
+{""/api/1.0/devices/id/325/", "type": "unknown", "device_id": 325},
+{"uuid": "", "serial_no": "MXQ51004B7", "asset_no":
+{""34000803B9B3040000000001", "name": "TXARL1-pcosd047", "device_url":
+{""/api/1.0/devices/id/326/", "type": "unknown", "device_id": 326},
+{"uuid": "", "serial_no": "MXQ51004B8", "asset_no":
+{""34000803B9B30400000002D7", "name": "TXARL1-pcosd048", "device_url":
+{""/api/1.0/devices/id/327/", "type": "unknown", "device_id": 327},
+{"uuid": "", "serial_no": "MXQ510046B", "asset_no":
+{""34000803B9B30400000002D6", "name": "TXARL1-pcosd049", "device_url":
+{""/api/1.0/devices/id/328/", "type": "unknown", "device_id": 328},
+{"uuid": "", "serial_no": "MXQ5100466", "asset_no":
+{""34000803B9B30400000002D1", "name": "TXARL1-pcosd050", "device_url":
+{""/api/1.0/devices/id/329/", "type": "unknown", "device_id": 329},
+{"uuid": "", "serial_no": "MXQ510046C", "asset_no":
+{""34000803B9B30400000002D2", "name": "TXARL1-pcosd051", "device_url":
+{""/api/1.0/devices/id/330/", "type": "unknown", "device_id": 330},
+{"uuid": "", "serial_no": "MXQ510046G", "asset_no":
+{""34000803B9B3040000000002", "name": "TXARL1-pcosd052", "device_url":
+{""/api/1.0/devices/id/331/", "type": "unknown", "device_id": 331},
+{"uuid": "", "serial_no": "MXQ51203L9", "asset_no":
+{""34000803B9B304000000007A", "name": "TXARL1-pcosd053", "device_url":
+{""/api/1.0/devices/id/332/", "type": "unknown", "device_id": 332},
+{"uuid": "", "serial_no": "MXQ511007T", "asset_no":
+{""34000803B9B30400000002CA", "name": "TXARL1-pcosd054", "device_url":
+{""/api/1.0/devices/id/333/", "type": "unknown", "device_id": 333},
+{"uuid": "", "serial_no": "MXQ50802G6", "asset_no":
+{""34000803B9B30400000002EC", "name": "TXARL1-pcrgw002", "device_url":
+{""/api/1.0/devices/id/334/", "type": "unknown", "device_id": 334},
+{"uuid": "", "serial_no": "MXQ50901KZ", "asset_no":
+{""34000803B9B30400000002E0", "name": "TXARL1-pes003", "device_url":
+{""/api/1.0/devices/id/335/", "type": "unknown", "device_id": 335},
+{"uuid": "", "serial_no": "MXQ50901KT", "asset_no":
+{""34000803B9B30400000002E1", "name": "TXARL1-pes004", "device_url":
+{""/api/1.0/devices/id/336/", "type": "unknown", "device_id": 336},
+{"uuid": "", "serial_no": "MXQ50901LM", "asset_no":
+{""34000803B9B30400000002E2", "name": "TXARL1-pes005", "device_url":
+{""/api/1.0/devices/id/337/", "type": "unknown", "device_id": 337},
+{"uuid": "", "serial_no": "MXQ50905W1", "asset_no":
+{""34000803B9B30400000002E3", "name": "TXARL1-pkeyproxy001",
+{""device_url": "/api/1.0/devices/id/338/", "type": "unknown",
+{""device_id": 338}, uuid": "", "serial_no": "MXQ50905W9", "asset_no":
+{""34000803B9B30400000002E4", "name": "TXARL1-pkeyproxy002",
+{""device_url": "/api/1.0/devices/id/339/", "type": "unknown",
+{""device_id": 339}, uuid": "", "serial_no": "MXQ50905VJ", "asset_no":
+{""34000803B9B30400000002D8", "name": "TXARL1-pqforeman001",
+{""device_url": "/api/1.0/devices/id/340/", "type": "unknown",
+{""device_id": 340}, uuid": "", "serial_no": "MXQ50905W6", "asset_no":
+{""34000803B9B30400000002DA", "name": "TXARL1-pqforeman002",
+{""device_url": "/api/1.0/devices/id/341/", "type": "unknown",
+{""device_id": 341}, uuid": "", "serial_no": "MXQ50905VT", "asset_no":
+{""34000803B9B30400000002E5", "name": "TXARL1-psldcol001",
+{""device_url": "/api/1.0/devices/id/342/", "type": "unknown",
+{""device_id": 342}, uuid": "", "serial_no": "MXQ50905VN", "asset_no":
+{""34000803B9B30400000002E6", "name": "TXARL1-psldcol002",
+{""device_url": "/api/1.0/devices/id/343/", "type": "unknown",
+{""device_id": 343}, uuid": "", "serial_no": "MXQ50905WC", "asset_no":
+{""34000803B9B30400000002E7", "name": "TXARL1-pslmcol001",
+{""device_url": "/api/1.0/devices/id/344/", "type": "unknown",
+{""device_id": 344}, uuid": "", "serial_no": "MXQ508029B", "asset_no":
+{""34000803B9B30400000002E8", "name": "TXARL1-pslmcol002",
+{""device_url": "/api/1.0/devices/id/345/", "type": "unknown",
+{""device_id": 345}, uuid": "", "serial_no": "MXQ510040K", "asset_no":
+{""E2009054990E016506011573", "name": "TXARL1-pworker097",
+{""device_url": "/api/1.0/devices/id/346/", "type": "unknown",
+{""device_id": 346}, uuid": "", "serial_no": "MXQ51003ZW", "asset_no":
+{""E2009054990E016506011572", "name": "TXARL1-pworker098",
+{""device_url": "/api/1.0/devices/id/347/", "type": "unknown",
+{""device_id": 347}, uuid": "", "serial_no": "MXQ510040H", "asset_no":
+{""E2009054990E016506011557", "name": "TXARL1-pworker099",
+{""device_url": "/api/1.0/devices/id/348/", "type": "unknown",
+{""device_id": 348}, uuid": "", "serial_no": "MXQ5100401", "asset_no":
+{""E2009054990E016506011556", "name": "TXARL1-pworker100",
+{""device_url": "/api/1.0/devices/id/349/", "type": "unknown",
+{""device_id": 349}, uuid": "", "serial_no": "MXQ51003W1", "asset_no":
+{""E2009054990E016506011555", "name": "TXARL1-pworker101",
+{""device_url": "/api/1.0/devices/id/350/", "type": "unknown",
+{""device_id": 350}, uuid": "", "serial_no": "MXQ51003VZ", "asset_no":
+{""E2009054990E016506011550", "name": "TXARL1-pworker102",
+{""device_url": "/api/1.0/devices/id/351/", "type": "unknown",
+{""device_id": 351}, uuid": "", "serial_no": "MXQ51003Y6", "asset_no":
+{""E2009054990E016506011547", "name": "TXARL1-pworker103",
+{""device_url": "/api/1.0/devices/id/352/", "type": "unknown",
+{""device_id": 352}, uuid": "", "serial_no": "MXQ51003Y7", "asset_no":
+{""E2009054990E016506011545", "name": "TXARL1-pworker104",
+{""device_url": "/api/1.0/devices/id/353/", "type": "unknown",
+{""device_id": 353}, uuid": "", "serial_no": "MXQ51003Y5", "asset_no":
+{""E2009054990E016506011526", "name": "TXARL1-pworker105",
+{""device_url": "/api/1.0/devices/id/354/", "type": "unknown",
+{""device_id": 354}, uuid": "", "serial_no": "MXQ51003ZV", "asset_no":
+{""E2009054990E016506011523", "name": "TXARL1-pworker106",
+{""device_url": "/api/1.0/devices/id/355/", "type": "unknown",
+{""device_id": 355}, uuid": "", "serial_no": "MXQ51003T9", "asset_no":
+{""E2009054990E016506011504", "name": "TXARL1-pworker107",
+{""device_url": "/api/1.0/devices/id/356/", "type": "unknown",
+{""device_id": 356}, uuid": "", "serial_no": "MXQ51003XR", "asset_no":
+{""E2009054990E016506011482", "name": "TXARL1-pworker108",
+{""device_url": "/api/1.0/devices/id/357/", "type": "unknown",
+{""device_id": 357}, uuid": "", "serial_no": "MXQ51003XX", "asset_no":
+{""E2009054990E016506011479", "name": "TXARL1-pworker109",
+{""device_url": "/api/1.0/devices/id/358/", "type": "unknown",
+{""device_id": 358}, uuid": "", "serial_no": "MXQ510040L", "asset_no":
+{""E2009054990E016506011476", "name": "TXARL1-pworker110",
+{""device_url": "/api/1.0/devices/id/359/", "type": "unknown",
+{""device_id": 359}, uuid": "", "serial_no": "MXQ51003WL", "asset_no":
+{""E2009054990E016506011453", "name": "TXARL1-pworker111",
+{""device_url": "/api/1.0/devices/id/360/", "type": "unknown",
+{""device_id": 360}, uuid": "", "serial_no": "MXQ51003T7", "asset_no":
+{""E2009054990E016506011427", "name": "TXARL1-pworker112",
+{""device_url": "/api/1.0/devices/id/361/", "type": "unknown",
+{""device_id": 361}, uuid": "", "serial_no": "MXQ51003Y8", "asset_no":
+{""34000803B9B3040000000238", "name": "TXARL1-pworker113",
+{""device_url": "/api/1.0/devices/id/362/", "type": "unknown",
+{""device_id": 362}, uuid": "", "serial_no": "MXQ51003ZZ", "asset_no":
+{""34000803B9B3040000000237", "name": "TXARL1-pworker114",
+{""device_url": "/api/1.0/devices/id/363/", "type": "unknown",
+{""device_id": 363}, uuid": "", "serial_no": "MXQ51003YS", "asset_no":
+{""34000803B9B3040000000236", "name": "TXARL1-pworker115",
+{""device_url": "/api/1.0/devices/id/364/", "type": "unknown",
+{""device_id": 364}, uuid": "", "serial_no": "MXQ51003VJ", "asset_no":
+{""34000803B9B3040000000235", "name": "TXARL1-pworker116",
+{""device_url": "/api/1.0/devices/id/365/", "type": "unknown",
+{""device_id": 365}, uuid": "", "serial_no": "MXQ51003V9", "asset_no":
+{""34000803B9B3040000000234", "name": "TXARL1-pworker117",
+{""device_url": "/api/1.0/devices/id/366/", "type": "unknown",
+{""device_id": 366}, uuid": "", "serial_no": "MXQ51003WR", "asset_no":
+{""34000803B9B3040000000233", "name": "TXARL1-pworker118",
+{""device_url": "/api/1.0/devices/id/367/", "type": "unknown",
+{""device_id": 367}, uuid": "", "serial_no": "MXQ51003ZG", "asset_no":
+{""34000803B9B3040000000232", "name": "TXARL1-pworker119",
+{""device_url": "/api/1.0/devices/id/368/", "type": "unknown",
+{""device_id": 368}, uuid": "", "serial_no": "MXQ51003X1", "asset_no":
+{""34000803B9B3040000000231", "name": "TXARL1-pworker120",
+{""device_url": "/api/1.0/devices/id/369/", "type": "unknown",
+{""device_id": 369}, uuid": "", "serial_no": "MXQ51003YH", "asset_no":
+{""34000803B9B3040000000230", "name": "TXARL1-pworker121",
+{""device_url": "/api/1.0/devices/id/370/", "type": "unknown",
+{""device_id": 370}, uuid": "", "serial_no": "MXQ51003W5", "asset_no":
+{""34000803B9B304000000022F", "name": "TXARL1-pworker122",
+{""device_url": "/api/1.0/devices/id/371/", "type": "unknown",
+{""device_id": 371}, uuid": "", "serial_no": "MXQ510041J", "asset_no":
+{""34000803B9B304000000022E", "name": "TXARL1-pworker123",
+{""device_url": "/api/1.0/devices/id/372/", "type": "unknown",
+{""device_id": 372}, uuid": "", "serial_no": "MXQ510042C", "asset_no":
+{""34000803B9B304000000022D", "name": "TXARL1-pworker124",
+{""device_url": "/api/1.0/devices/id/373/", "type": "unknown",
+{""device_id": 373}], "offset": 0}

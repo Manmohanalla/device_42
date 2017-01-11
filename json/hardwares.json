@@ -1,0 +1,1 @@
+{"models": [{"size": 1.0, "watts": null, "name": "Hardware_1", "part_no": "1234568", "width_ratio_raw": 2520, "notes": "", "hardware_id": 1, "front_image_id": null, "back_image_id": null, "depth": "Full Depth", "back_image_url": null, "blade_size": null, "manufacturer": null, "type": "physical", "spec_url": ""}], "total_count": 1, "limit": 1000, "offset": 0}

@@ -1,0 +1,1 @@
+{"total_count": 2, "limit": 1000, "rooms": [{"building": "northpark", "name": "2092", "notes": "", "room_id": 1, "building_id": 1, "custom_fields": []}, {"building": "northpark", "name": "1092", "notes": "", "room_id": 2, "building_id": 1, "custom_fields": []}], "offset": 0}
